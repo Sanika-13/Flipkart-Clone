@@ -13,7 +13,9 @@
 }
 .my-1{
     margin: 5px 0;
-}
+    color: indigo;
+    font-weight: bold;
+    }
 .my-2{
     margin: 26px 0;
 }
